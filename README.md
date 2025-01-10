@@ -1,2 +1,6 @@
-# Pronostico-y-predicciones
-Analisis de datos para optimizar sus estrategias para reducir la tasa de cancelación , aumentar la fidelización de sus usuarios y buscar estrategias de marketing
+# Model Fitness
+
+Optimicé sus estrategias para reducir la tasa de cancelación y aumentar la fidelización de sus usuarios. Desarrolle un modelo predictivo capaz de identificar a los clientes con mayor probabilidad de abandonar el gimnasio. A través de técnicas de aprendizaje automático, como la clasificación y el clustering, se busca identificar patrones y tendencias que permitan predecir la cancelación de la membresía.
+
+Las conclusiones que obtuve fueron que los clientes que asisten con más frecuencia al gimnasio tienen una mayor probabilidad de permanecer como miembros.Tambien los clientes valoran las experiencias personalizadas y las recomendaciones adaptadas a sus necesidades, por eso la segmentación de clientes permite estrategias más efectivas como identificar diferentes perfiles de clientes que permita diseñar programas y ofertas más relevantes.
+Otro patron a resaltar es que los contratos a largo plazo fomentan la lealtad, los clientes con contratos más largos tienen una menor probabilidad de cancelar. La clave para mejorar la retención de clientes en Model Fitness es centrarse en ofrecer una experiencia personalizada y atractiva que fomente la lealtad y el compromiso a largo plazo.
